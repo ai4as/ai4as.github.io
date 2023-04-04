@@ -12,25 +12,29 @@ title = "TPC"
 #   Add/remove as many `[[item]]` blocks below as you like.
 
 [[item]]
-  organization = "Imperial College London, UK"
-  title = "John Doe"
-[[item]]
-  organization = "Imperial College London, UK"
-  title = "John Doe"
-[[item]]
-  organization = "Imperial College London, UK"
-  title = "John Doe"
-[[item]]
-  organization = "Imperial College London, UK"
-  title = "John Doe"
-[[item]]
-  organization = "Imperial College London, UK"
-  title = "John Doe"
-[[item]]
-  organization = "Imperial College London, UK"
-  title = "John Doe"
-[[item]]
-  organization = "Imperial College London, UK"
-  title = "John Doe"
+ title = "To be announced"
+ organization = "..."
+
+#[[item]]
+#  organization = "Imperial College London, UK"
+#  title = "John Doe"
+#[[item]]
+#  organization = "Imperial College London, UK"
+#  title = "John Doe"
+#[[item]]
+#  organization = "Imperial College London, UK"
+#  title = "John Doe"
+#[[item]]
+#  organization = "Imperial College London, UK"
+#  title = "John Doe"
+#[[item]]
+#  organization = "Imperial College London, UK"
+#  title = "John Doe"
+#[[item]]
+#  organization = "Imperial College London, UK"
+#  title = "John Doe"
+#[[item]]
+#  organization = "Imperial College London, UK"
+#  title = "John Doe"
 
 +++

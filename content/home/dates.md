@@ -13,6 +13,6 @@ columns = "1"
 - Submission deadline: TBA
 - Author notification: TBA
 - Camera-ready: TBA
-- Workshop: September 25, 2023 (*tentative*)
+- Workshop: September 25 or 29, 2023
 
 

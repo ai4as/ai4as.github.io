@@ -4,6 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
   name = "Dates"
   url = "#dates"
   weight = 10
@@ -17,6 +22,11 @@
   name = "Committees"
   url = "#committees"
   weight = 30
+
+[[main]]
+  name = "Author Information"
+  url = "#info"
+  weight = 40
 
 #[[main]]
 #  name = "dropdown"
