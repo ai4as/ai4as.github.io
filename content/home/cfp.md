@@ -15,4 +15,5 @@ However, there are still several challenges to face for researchers and practiti
 
 In this workshop, we solicit high quality contributions that fit with the overarching theme of AI and ML meeting autonomous computing systems. 
 
-**We invite submissions of original research papers, as well as vision papers.**
+**We invite submissions of original research papers, as well as vision papers
+and experience reports.**
