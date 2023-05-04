@@ -26,6 +26,9 @@ title = "Program Committee"
   organization = "University of Hamburg, Germany"
   title = "Janick Edinger"
 [[item]]
+  organization = "KU Leuven, Belgium"
+  title = "Omid Gheibi"
+[[item]]
   organization = "Drexel University, USA"
   title = "Nagarajan Kandasamy"
 [[item]]
