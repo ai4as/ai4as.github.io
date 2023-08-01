@@ -24,8 +24,8 @@
   weight = 30
 
 [[main]]
-  name = "Author Information"
-  url = "#info"
+  name = "Accepted Papers"
+  url = "#program"
   weight = 40
 
 #[[main]]
