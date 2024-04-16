@@ -10,10 +10,10 @@ columns = "1"
 +++
 
 
-- Submission deadline: ~~**July 10th, 2023 (firm)**~~
-- Notification to authors: ~~July 30th, 2023~~
-- Camera-ready deadline: ~~August 5th, 2023~~ 
-- Workshop: September 28th, 2023 ([Program](#program))
+- Submission deadline: **June 25th, 2024**
+- Notification to authors: July 18th, 2024
+- Camera-ready deadline: July 26th, 2024 
+- Workshop: September 16th or 20th, 2024 (TBA)
 
 All times in *Anywhere on Earth* (AoE) timezone.
 

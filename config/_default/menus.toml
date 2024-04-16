@@ -23,10 +23,20 @@
   url = "#committees"
   weight = 30
 
+#[[main]]
+#  name = "Program"
+#  url = "#program"
+#  weight = 40
+
 [[main]]
-  name = "Program"
-  url = "#program"
+  name = "Author Info"
+  url = "#info"
   weight = 40
+
+[[main]]
+  name = "Previous Editions"
+  url = "#prev"
+  weight = 51
 
 #[[main]]
 #  name = "dropdown"

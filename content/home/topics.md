@@ -16,4 +16,7 @@ The aim of the workshop is to share new findings, exchange ideas and discuss res
  - Sustainability aspects of AI-driven adaptation 
  - Federated and multi-agent learning approaches for decentralized adaptation 
  - Robustness, explainability, safety, and security of AI-driven computing systems 
+ - Integration of large language models (LLMs) into autonomous computing systems
+ - Self-adaptation for AI/ML systems
  - Case studies and real-world implementations of AI for autonomous computing systems
+

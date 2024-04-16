@@ -42,7 +42,7 @@ hero_media = "logo.png"
 #  label = "Contact me"
 
 +++
-## First International Workshop on **Artificial Intelligence for Autonomous computing Systems** (AI4AS 2023)
+## 2nd International Workshop on **Artificial Intelligence for Autonomous computing Systems** (AI4AS 2024)
 
-Co-located with [ACSOS 2023](https://2023.acsos.org/), which takes place in Toronto (Canada) - September
-25-29, 2023.
+Co-located with [ACSOS 2024](https://2024.acsos.org/), which takes place in Aarhus (Denmark) - September
+16-20, 2024.

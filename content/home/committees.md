@@ -17,7 +17,7 @@ columns = "2"
           <h4 class="card-title exp-title text-muted my-0">Gabriele Russo Russo</h4>
           </a>
         <div class="card-subtitle my-0 article-metadata">
-            University of Rome Tor Vergata, Italy
+            Tor Vergata University of Rome, Italy
 <span class="middot-divider"></span>
 </div> </div> </div>
   </div>
@@ -30,7 +30,7 @@ columns = "2"
           <h4 class="card-title exp-title text-muted my-0">Valeria Cardellini</h4>
           </a>
         <div class="card-subtitle my-0 article-metadata">
-            University of Rome Tor Vergata, Italy
+            Tor Vergata University of Rome, Italy
 <span class="middot-divider"></span>
 </div> </div> </div>
   </div>
@@ -38,9 +38,12 @@ columns = "2"
   <div class="col-lg-4 col-md-4 mb-4">
     <div class="card experience course shadow-sm rounded-0 border-0">
       <div class="card-body">
-          <h4 class="card-title exp-title text-muted my-0">Stefano Iannucci</h4>
+      <a href="https://www.dpss.inesc-id.pt/~romanop/" target="_blank"
+      rel="noopener">
+          <h4 class="card-title exp-title text-muted my-0">Paolo Romano</h4>
+	  </a>
         <div class="card-subtitle my-0 article-metadata">
-            Roma Tre University, Italy
+	University of Lisbon, Portugal
 <span class="middot-divider"></span>
 </div> </div> </div>
   </div>

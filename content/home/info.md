@@ -11,13 +11,13 @@ columns = "1"
 
 All submissions are required to be formatted according to the standard 
 [IEEE Computer Society Press proceedings style guide](https://www.ieee.org/conferences/publishing/templates.html).
-Papers can be submitted in PDF format via [EasyChair](https://easychair.org/conferences/submission_new?a=30765499) and
+Papers can be submitted in PDF format via [????](https://) and
 must be no longer than **6 pages** (including figures, tables, and
 references).
 
-**Note**: when submitting via EasyChair, make sure that the track indicated as 
-*Workshop on Artificial Intelligence for Autonomous computing Systems* is
-selected.
+#**Note**: when submitting via EasyChair, make sure that the track indicated as 
+#*Workshop on Artificial Intelligence for Autonomous computing Systems* is
+#selected.
 
 Accepted papers will be published in the ACSOS Companion volume and will appear
 in
