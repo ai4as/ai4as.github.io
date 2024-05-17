@@ -12,34 +12,31 @@ title = "Program Committee"
 
 
 [[item]]
-  organization = "..."
-  title = "TBA"
-#[[item]]
-#  organization = "Virginia Commonwealth University, USA"
-#  title = "Sherif Abdelwahed"
-#[[item]]
-#  organization = "Politecnico di Milano, Italy"
-#  title = "Danilo Ardagna"
-#[[item]]
-#  organization = "Imperial College London, UK"
-#  title = "Giuliano Casale"
-#[[item]]
-#  organization = "Sapienza University of Rome, Italy"
-#  title = "Emiliano Casalicchio"
+  organization = "Virginia Commonwealth University, USA"
+  title = "Sherif Abdelwahed"
+[[item]]
+  organization = "Trinity College Dublin, Ireland"
+  title = "Ivana Dusparic"
+[[item]]
+  organization = "Carnegie Mellon University, USA"
+  title = "David Garlan"
+[[item]]
+  organization = "TU Wien, Austria"
+  title = "Shashikant Ilager"
+[[item]]
+  organization = "IMT School for Advanced Studies, Italy"
+  title = "Emilio Incerto"
+[[item]]
+  organization = "Bank of Italy"
+  title = "Matteo Nardelli"
+[[item]]
+  organization = "University of Lisbon, Portugal"
+  title = "Luis Rodrigues"
+[[item]]
+  organization = "University of Duisburg-Essen, Germany"
+  title = "Gregor Schiele"
 #[[item]]
 #  organization = "University of Hamburg, Germany"
 #  title = "Janick Edinger"
-#[[item]]
-#  organization = "KU Leuven, Belgium"
-#  title = "Omid Gheibi"
-#[[item]]
-#  organization = "Drexel University, USA"
-#  title = "Nagarajan Kandasamy"
-#[[item]]
-#  organization = "Politecnico di Milano, Italy"
-#  title = "Raffaela Mirandola"
-#[[item]]
-#  organization = "Nokia Bell Labs, Belgium"
-#  title = "Alexandre da Silva Veith"
 
 +++
