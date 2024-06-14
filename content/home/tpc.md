@@ -21,6 +21,9 @@ title = "Program Committee"
   organization = "Carnegie Mellon University, USA"
   title = "David Garlan"
 [[item]]
+  organization = "University of Hamburg, Germany"
+  title = "Janick Edinger"
+[[item]]
   organization = "TU Wien, Austria"
   title = "Shashikant Ilager"
 [[item]]
@@ -35,8 +38,5 @@ title = "Program Committee"
 [[item]]
   organization = "University of Duisburg-Essen, Germany"
   title = "Gregor Schiele"
-#[[item]]
-#  organization = "University of Hamburg, Germany"
-#  title = "Janick Edinger"
 
 +++
