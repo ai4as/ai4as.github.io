@@ -10,7 +10,7 @@ columns = "1"
 +++
 
 
-- Submission deadline: **June 25th, 2024**
+- Submission deadline: **July 4th, 2024 (extended)**
 - Notification to authors: July 18th, 2024
 - Camera-ready deadline: July 26th, 2024 
 - Workshop: September 16th or 20th, 2024 (TBA)
