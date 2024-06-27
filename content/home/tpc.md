@@ -21,6 +21,9 @@ title = "Program Committee"
   organization = "Carnegie Mellon University, USA"
   title = "David Garlan"
 [[item]]
+  organization = "Sandia National Laboratories, USA"
+  title = "Ann Gentile"
+[[item]]
   organization = "University of Hamburg, Germany"
   title = "Janick Edinger"
 [[item]]
