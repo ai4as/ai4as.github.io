@@ -31,7 +31,7 @@
 [[main]]
   name = "Author Info"
   url = "#info"
-  weight = 40
+  weight = 25
 
 [[main]]
   name = "Previous Editions"
