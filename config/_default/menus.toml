@@ -14,6 +14,11 @@
   weight = 10
 
 [[main]]
+  name = "Accepted Papers"
+  url = "#accepted"
+  weight = 15
+
+[[main]]
   name = "Call for Papers"
   url = "#cfp"
   weight = 20
@@ -23,6 +28,7 @@
   url = "#committees"
   weight = 30
 
+
 #[[main]]
 #  name = "Program"
 #  url = "#program"
@@ -31,7 +37,7 @@
 [[main]]
   name = "Author Info"
   url = "#info"
-  weight = 25
+  weight = 45
 
 [[main]]
   name = "Previous Editions"

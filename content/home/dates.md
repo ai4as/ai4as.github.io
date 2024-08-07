@@ -3,7 +3,7 @@ widget = "blank"
 title = "Important Dates"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+weight = 10  # Order that this section will appear in.
 
 [design]
 columns = "1"
