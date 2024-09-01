@@ -2,31 +2,40 @@
 widget = "blank" 
 title = "Program"
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 41  # Order that this section will appear in.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear in.
 
 [design]
 columns = "1"
 +++
 
-**Room**: B2-1 (more info about the venue [here](https://2023.acsos.org/attending/acsos-2023-venue-info))
+**Room**: [Mortensenstuen](https://2024.acsos.org/room/acsos-2024-venue-mortensenstuen)
 
 ## Schedule
 
 |||
 |----|---|
-|15.30-15.35|Opening|
-|15.35-16.30| **Keynote**: [Sherif Abdelwahed](https://scholar.google.com/citations?user=ZUfEfSAAAAAJ&hl=en), "A Journey into Integrating Machine Learning and Model-Based Techniques for CPS Autonomy"
-|16.35-17.00|Sharmin Jahan, Sarra Alqahtani, Rose Gamble and Masrufa Bayesh. *Automated Extraction of Security Profile Information from XAI Outcomes* |
-|17.00-17.25|Glaucia Melo, Nathalia Nascimento, Paulo Alencar and Donald Cowan. *Variability-Aware Architecture for Human-Chatbot Interactions: Taming Levels of Automation* |
-|17.25-17.50|Anthony Baietto, Christopher Stewart and Trevor J. Bihl. *Dataset Augmentation for Robust Spiking Neural Networks* |
-|17.50-18.00|Closing|
+|9.00 - 9.05|Opening|
+|9.05 - 10.00| **Keynote**: Stefano Iannucci (Roma Tre University, Italy), "From Attack Trees to Timed Stochastic Games: a Novel Intrusion Response Approach"
+|10.00 - 10.30| *Coffe Break*
+|10.30 - 11.00 | **Generative Models for Temporal-based Task Definition.** Lukas Koch Vindbjerg (Aarhus University) and Lukas Esterle (Aarhus University)
+|11.00 - 11.30 | **Meta-Adaptation Goals: Leveraging Feedback Loop Requirements for Effective Self-Adaptation.** Raffaela Groner (Chalmers | University of Gothenburg), Ricardo Caldas (Chalmers University of Technology) and Rebekka Wohlrab (Chalmers | University of Gothenburg)
+|11.30 - 12.00| **Machine Learning to Predict Risk Management Applications Performance.** Laura De Giorgi (Politecnico di Milano) and Danilo Ardagna (Politecnico di Milano)
+|12.00 - 14.00| *Lunch*
+|13.00 - 13.30| **Principled Transfer Learning for Autonomic Systems: A Neuro-Symbolic Vision.** Christian Medeiros Adriano (Hasso Plattner Institute), Sona Ghahremani (Hasso Plattner Institute) and Holger Giese (Hasso Plattner Institute)
+|13.30 - 14.00| **Safety-Aware Adaptive Reinforcement Learning for Mobile Assistive-Care Robots.** Qi Zhang (University of York), Ioannis Stefanakos (University of York), Javier Camara (University of Málaga) and Radu Calinescu (University of York)
+|14.00 - 14.30| **Towards a Multi-Armed Bandit Approach for Adaptive Load Balancing in Function-as-a-Service Systems.** Gabriele Russo Russo (University of Rome Tor Vergata), Enrico D’Alessandro (Tor Vergata University of Rome), Valeria Cardellini (Tor Vergata University of Rome) and Francesco Lo Presti (Tor Vergata University of Rome)
+|14.30 - 15.00| **Multi-Objective Deep Reinforcement Learning for Optimisation in Autonomous Systems.** Juan C. Rosero (Trinity College Dublin), Nicolás Cardozo (Universidad de los Andes) and Ivana Dusparic (Trinity College Dublin)
+
+<br/>
 
 ## Keynote
 
-### A Journey into Integrating Machine Learning and Model-Based Techniques for CPS Autonomy
+### From Attack Trees to Timed Stochastic Games: a Novel Intrusion Response Approach
 
-The realm of cyber-physical systems (CPS) is rapidly evolving, with increasing demands for systems that possess not only automation and intelligence but also the capability to autonomously manage themselves in dynamic environments. This presentation delves into the synergistic integration of machine learning (ML) and model-based techniques as a novel approach to address the complexities of designing self-managing CPS. This presentation explores the fusion of machine learning (ML) and model-based techniques in the design of self-managing cyber-physical systems (CPS). By combining domain knowledge and data-driven insights, this integrated approach enhances CPS autonomy, adaptability, and decision-making. The talk covers real-world applications, benefits, challenges, and strategies for achieving synergy between ML and model-based methods. Attendees will gain insights into the evolving landscape of CPS design, learning how to create more sophisticated and self-managing systems through this collaborative paradigm.
+Self-Protecting Systems (SPS) are envisioned as the next frontier in the runtime protection of computer systems, and are usually designed following a pipeline that combines at least two stages: Intrusion Detection and Intrusion Response. While the former has been investigated for decades, Intrusion Response is a relatively new field of research, which slowly gained interest in the past few years, in part due to the advances in the field of Artificial Intelligence. Most recent Intrusion Response Systems (IRSs) use models to characterize the attack patterns and the dynamics of the protected system. Such models are typically based on some mathematical framework, and thus require a low-level modeling activity that is often difficult and error prone, even to the experienced end-user. Furthermore, most of the model-based approaches proposed so far do not structurally include the notion of time, which is necessary to model non-instantaneous defense and attack actions. In this talk, we introduce a novel methodology for the automatic generation of IRSs based on Timed Competitive Stochastic Games from augmented Attack-Defense Trees (ADT), a formalism that is commonly used to represent attack patterns. We show that the resulting stochastic game always yields a reward that is at least as good as the reward obtainable with an augmented ADT and discuss the scalability of the proposed approach in terms of planning time and memory usage.
 
 ### Speaker
-**Sherif Abdelwahed** is a Professor of Electrical and Computer Engineering (ECE) at Virginia Commonwealth University (VCU), where he teaches and conducts research in the area of computer engineering, with specific interests in autonomic computing, cyber-physical systems, formal verification and cyber-security. Before joining VCU in August 2017, he served as the associate director of the Distributed Analytics and Security Institute at Mississippi State University (MSU). He was also is also an Associate Professor in the ECE Department at MSU. He received his Ph.D in 2002 from the Department of Electrical and Computer Engineering at the University of Toronto. Throughout his academic tenure, Dr. Abdelwahed pioneered work on model-based design of autonomic computing systems and self-managing systems using control-theoretic techniques and model-integrated computing concepts. His research interests also include Cyber security and model-based self-protection, design and analysis of cyber-physical systems, fault diagnosis, modeling and analysis of discrete-event and hybrid systems, and formal verification. Dr. Abdelwahed has chaired several international conferences and conference tracks, and has served as technical committee member at various national and international conferences. He received the StatePride Faculty award for 2010 and 2011, the Bagley College of Engineering Hearin Faculty Excellence award in 2010, and the 2016 Faculty Research Award from the Bagley College of Engineering at MSU. He has more than 180 publications and is a senior member of the IEEE.
+Stefano Iannucci is an Assistant Professor of Computer Engineering at Roma Tre University and an Adjunct Professor of Computer Science and Engineering at Mississippi State University. He received his Ph.D. in 2015 from the University of Rome Tor Vergata. His research is in the broad area of autonomic computing and, more recently, Intrusion Response.
+
+He published over 30 papers in top journals and conferences. Dr. Iannucci has chaired several international workshops and has been the workshops chair for IEEE ICCAC 2017 and ACM/SPEC ICPE 2023. He is Associate Editor of Springer Cluster Computing and part of the Review Board of IEEE Transactions on Parallel and Distributed Systems.

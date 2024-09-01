@@ -14,8 +14,8 @@
   weight = 10
 
 [[main]]
-  name = "Accepted Papers"
-  url = "#accepted"
+  name = "Program"
+  url = "#program"
   weight = 15
 
 [[main]]
