@@ -21,7 +21,7 @@ columns = "1"
 |10.30 - 11.00 | **Generative Models for Temporal-based Task Definition.** Lukas Koch Vindbjerg (Aarhus University) and Lukas Esterle (Aarhus University)
 |11.00 - 11.30 | **Meta-Adaptation Goals: Leveraging Feedback Loop Requirements for Effective Self-Adaptation.** Raffaela Groner (Chalmers | University of Gothenburg), Ricardo Caldas (Chalmers University of Technology) and Rebekka Wohlrab (Chalmers | University of Gothenburg)
 |11.30 - 12.00| **Machine Learning to Predict Risk Management Applications Performance.** Laura De Giorgi (Politecnico di Milano) and Danilo Ardagna (Politecnico di Milano)
-|12.00 - 14.00| *Lunch*
+|12.00 - 13.00| *Lunch*
 |13.00 - 13.30| **Principled Transfer Learning for Autonomic Systems: A Neuro-Symbolic Vision.** Christian Medeiros Adriano (Hasso Plattner Institute), Sona Ghahremani (Hasso Plattner Institute) and Holger Giese (Hasso Plattner Institute)
 |13.30 - 14.00| **Safety-Aware Adaptive Reinforcement Learning for Mobile Assistive-Care Robots.** Qi Zhang (University of York), Ioannis Stefanakos (University of York), Javier Camara (University of Málaga) and Radu Calinescu (University of York)
 |14.00 - 14.30| **Towards a Multi-Armed Bandit Approach for Adaptive Load Balancing in Function-as-a-Service Systems.** Gabriele Russo Russo (University of Rome Tor Vergata), Enrico D’Alessandro (Tor Vergata University of Rome), Valeria Cardellini (Tor Vergata University of Rome) and Francesco Lo Presti (Tor Vergata University of Rome)
