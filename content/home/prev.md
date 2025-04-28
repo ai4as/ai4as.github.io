@@ -9,6 +9,7 @@ weight = 60  # Order that this section will appear in.
 columns = "1"
 +++
 
+ - [AI4AS 2024](/ai4as24/)
  - [AI4AS 2023](/ai4as23/)
 
 

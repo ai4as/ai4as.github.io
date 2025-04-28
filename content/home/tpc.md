@@ -12,34 +12,39 @@ title = "Program Committee"
 
 
 [[item]]
-  organization = "Virginia Commonwealth University, USA"
-  title = "Sherif Abdelwahed"
-[[item]]
-  organization = "Trinity College Dublin, Ireland"
-  title = "Ivana Dusparic"
-[[item]]
-  organization = "Carnegie Mellon University, USA"
-  title = "David Garlan"
-[[item]]
-  organization = "Sandia National Laboratories, USA"
-  title = "Ann Gentile"
-[[item]]
-  organization = "University of Hamburg, Germany"
-  title = "Janick Edinger"
-[[item]]
-  organization = "TU Wien, Austria"
-  title = "Shashikant Ilager"
-[[item]]
-  organization = "IMT School for Advanced Studies, Italy"
-  title = "Emilio Incerto"
-[[item]]
-  organization = "Bank of Italy"
-  title = "Matteo Nardelli"
-[[item]]
-  organization = "University of Lisbon, Portugal"
-  title = "Luis Rodrigues"
-[[item]]
-  organization = "University of Duisburg-Essen, Germany"
-  title = "Gregor Schiele"
+  organization = "TBA"
+  title = "TBA"
+
+#[[item]]
+#  organization = "Virginia Commonwealth University, USA"
+#  title = "Sherif Abdelwahed"
+#[[item]]
+#  organization = "Trinity College Dublin, Ireland"
+#  title = "Ivana Dusparic"
+#[[item]]
+#  organization = "Carnegie Mellon University, USA"
+#  title = "David Garlan"
+#[[item]]
+#  organization = "Sandia National Laboratories, USA"
+#  title = "Ann Gentile"
+#[[item]]
+#  organization = "University of Hamburg, Germany"
+#  title = "Janick Edinger"
+#[[item]]
+#  organization = "TU Wien, Austria"
+#  title = "Shashikant Ilager"
+#[[item]]
+#  organization = "IMT School for Advanced Studies, Italy"
+#  title = "Emilio Incerto"
+#[[item]]
+#  organization = "Bank of Italy"
+#  title = "Matteo Nardelli"
+#[[item]]
+#  organization = "University of Lisbon, Portugal"
+#  title = "Luis Rodrigues"
+#[[item]]
+#  organization = "University of Duisburg-Essen, Germany"
+#  title = "Gregor Schiele"
+#
 
 +++

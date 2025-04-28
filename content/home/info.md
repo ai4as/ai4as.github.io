@@ -11,7 +11,7 @@ columns = "1"
 
 All submissions are required to be formatted according to the standard 
 [IEEE Computer Society Press proceedings style guide](https://www.ieee.org/conferences/publishing/templates.html).
-Papers can be submitted in PDF format via [EasyChair](https://easychair.org/conferences/?conf=acsos2024),
+Papers can be submitted in PDF format via [???](http://a),
 making sure to **select the track "International Workshop on Artificial Intelligence for Autonomous computing Systems"**.
 Submitted manuscripts must be no longer than **6 pages** (including figures, tables, and
 references). 

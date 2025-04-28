@@ -10,10 +10,10 @@ columns = "1"
 +++
 
 
-- Submission deadline: July 12th, 2024 (extended, firm)
-- Notification to authors: July 26th, 2024
-- Camera-ready deadline: **August 2nd, 2024**
-- Workshop: **September 20th, 2024**
+- Submission deadline: **June 27th, 2025**
+- Notification to authors: **July 24th, 2025**
+- Camera-ready deadline: **July 31st, 2025**
+- Workshop: TBA
 
 All times in *Anywhere on Earth* (AoE) timezone.
 
