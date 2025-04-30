@@ -10,7 +10,7 @@ columns = "1"
 +++
 
 
-- Submission deadline: **June 27th, 2025**
+- Submission deadline: **June 29th, 2025**
 - Notification to authors: **July 24th, 2025**
 - Camera-ready deadline: **July 31st, 2025**
 - Workshop: TBA
