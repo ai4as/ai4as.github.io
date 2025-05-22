@@ -30,9 +30,9 @@ title = "Program Committee"
 [[item]]
   organization = "Hasso plattner Institute"
   title = "Sona Ghahremani"
-#[[item]]
-#  organization = "Sandia National Laboratories, USA"
-#  title = "Ann Gentile"
+[[item]]
+  organization = "Sandia National Laboratories, USA"
+  title = "Ann Gentile"
 #[[item]]
 #  organization = "University of Hamburg, Germany"
 #  title = "Janick Edinger"
