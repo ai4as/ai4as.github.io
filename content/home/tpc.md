@@ -51,6 +51,9 @@ title = "Program Committee"
 [[item]]
   organization = "Karlsruhe Institute of Technology, Germany"
   title = "Raffaela Mirandola"
+[[item]]
+  organization = "University of Modena and Reggio Emilia, Italy"
+  title = "Sara Pederzoli"
 #[[item]]
 #  organization = "University of Lisbon, Portugal"
 #  title = "Luis Rodrigues"
