@@ -10,10 +10,10 @@ columns = "1"
 +++
 
 
-- Submission deadline: **June 29th, 2025**
-- Notification to authors: **July 24th, 2025**
-- Camera-ready deadline: **July 31st, 2025**
-- Workshop: TBA
+- Submission deadline: ~June 29th~ **July 11th, 2025**
+- Notification to authors: ~July 24th~ **July 31st, 2025**
+- Camera-ready deadline: **August 8th, 2025**
+- Workshop: September 29th or October 3rd (TBA)
 
 All times in *Anywhere on Earth* (AoE) timezone.
 
