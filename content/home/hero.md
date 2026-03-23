@@ -42,6 +42,6 @@ hero_media = "logoAcsos.png"
 #  label = "Contact me"
 
 +++
-## 3rd International Workshop on **Artificial Intelligence for Autonomous computing Systems** (AI4AS 2025)
+## 4th International Workshop on **Artificial Intelligence for Autonomous computing Systems** (AI4AS 2026)
 
-Co-located with [ACSOS 2025](https://2025.acsos.org/), which takes place in Tokyo (Japan) - Mon 29 September - Fri 3 October 2025.
+Co-located with [ACSOS 2026](https://2026.acsos.org/), which takes place in Cesena (Italy) - September 7-11, 2026.

@@ -15,10 +15,9 @@ The aim of the workshop is to share new findings, exchange ideas and discuss res
  - Architectures and frameworks for AI integration
  - Sustainability aspects of AI-driven adaptation
  - AI ethics, bias mitigation, and trustworthiness in self-adaptive systems
- - Federated and multi-agent learning approaches for decentralized adaptation
+ - Collaborative, federated, continual and multi-agent learning approaches for decentralized adaptation
+ - Agentic AI in autonomous systems
  - Robustness, explainability, safety, and security of AI-driven computing systems
- - Integration of large language models (LLMs) and generative AI into autonomous computing systems
  - Edge intelligence and distributed decision-making in autonomous systems
  - Self-adaptation for AI/ML systems
  - Case studies and real-world implementations of AI for autonomous computing systems
-
