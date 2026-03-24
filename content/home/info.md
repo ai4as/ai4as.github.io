@@ -11,7 +11,7 @@ columns = "1"
 
 All submissions are required to be formatted according to the standard 
 [IEEE Computer Society Press proceedings style guide](https://www.ieee.org/conferences/publishing/templates.html).
-Papers can be submitted in PDF format via [EasyChair](), making sure to **select the track "AI4AS-Workshop"**.
+Papers can be submitted in PDF format via [EasyChair](https://easychair.org/conferences/submission_new?a=36395246), making sure to **select the track "AI4AS-Workshop"**.
 Submitted manuscripts must be no longer than **6 pages** (including figures, tables, and
 references). 
 
