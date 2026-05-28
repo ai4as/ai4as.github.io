@@ -31,10 +31,6 @@ title = "Program Committee"
   title = "Matteo Nardelli"
 
 [[item]]
-  organization = "Sandia National Laboratories, USA"
-  title = "Ann Gentile"
-
-[[item]]
   organization = "University of South Alabama, USA"
   title = "Jesse Ables"
 
@@ -57,5 +53,9 @@ title = "Program Committee"
 [[item]]
   organization = "Trinity College Dublin, Ireland"
   title = "Juan Rosero"
+
+[[item]]
+  organization = "Sandia National Laboratories, USA"
+  title = "Jim Brandt"
 
 +++
