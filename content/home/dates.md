@@ -13,7 +13,7 @@ columns = "1"
 - Submission deadline: **June 20th, 2026** 
 - Notification to authors: July 13th~ 2026
 - Camera-ready deadline: July 20th, 2026
-- Workshop: September 7 or 11 (TBA)
+- Workshop: September 7th
 
 All times in *Anywhere on Earth* (AoE) timezone.
 
