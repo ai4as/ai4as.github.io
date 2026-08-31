@@ -22,7 +22,7 @@ columns = "1"
 |11.15 - 12.15| Keynote: **Sustainable Intelligence: Adaptive AI Systems for Environmental Efficiency in Autonomous and Distributed Computing**, Monica Vitali
 |12.15 - 12.35| **Towards Autonomous Surface Vessels: A World-Model-Centric Approach**. Raphael Schwinger, Nils Bischoff, Mats Kurz, Lukas Nolte, Tim Nolte, Bahne Thiel-Peters, Sven Tomforde 
 |12.35 - 12.55| **Perception Risk for Path Planning in Autonomous Rover Navigation**. Christian Medeiros Adriano, Mostafa Wael Aboalfotoh, Sona Ghahremani, Holger Giese
-|12.55 - 13.30| Closing
+|12.55 - 13.00| Closing
 
 <br/>
 
