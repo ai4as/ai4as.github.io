@@ -2,37 +2,41 @@
 widget = "blank" 
 title = "Program"
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear in.
 
 [design]
 columns = "1"
 +++
 
-*Tentative program*
 
 
 |||
 |----|---|
-|9.30 - 9.35|Opening|
-|9.35 - 10.40| **Keynote**: Shahram Rahimi (University of Alabama), "Towards an Autonomous Patient Recommendation System"
-|10.40 - 11.00| *Break*
-|11.00 - 11.25 | **Adapting the Behavior of Reinforcement Learning Agents to Changing Action Spaces and Reward Functions**. 	Raúl De la Rosa, Ivana Dusparic and Nicolás Cardozo
-|11.25 - 11.50 | **Lightweight Temporal Consistency for Grid-Based Obstacle Detection in Edge Devices**. 	Omer Kurkutlu and Arman Roohi
-|11.50 - 12.15| **Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments**. Kathrin Korte, Christian Medeiros Adriano, Sona Ghahremani and Holger Giese
-|12.15 - 12.30| Final discussion & Closing
+|9.20 - 9.30|Opening|
+|9.30 - 9.50| **Adaptive Incremental Learning for Anomaly Detection under Domain Shift: An Additive Manufacturing Case Study**. Akram Zarchini, Denis Dowling, Fatemeh Golpayegani
+|9.50 - 10.10| **Discovering Collaboration from Novelty: Random Network Distillation for Clustered Federated Learning**. Davide Domini, Gianluca Aguzzi, Ivana Dusparic, Danilo Pianini, Mirko Viroli
+|10.10 - 10.30 | **3NLM: A Normative Logic Framework for Expectation-Driven Self-Adaptive Explanations**. Zahra Atf, Nathan Lloyd, Peter Lewis
+|10.30 - 10.50 | **S3Eval: A Three-Layer Pipeline for Automated Evaluation of PDDL-Encoded Attack Paths**. Lin Cui, Vincenzo Scotti, Raffaela Mirandola
+|| *Break*
+|11.15 - 12.15| Keynote: **Sustainable Intelligence: Adaptive AI Systems for Environmental Efficiency in Autonomous and Distributed Computing**, Monica Vitali
+|12.15 - 12.35| **Towards Autonomous Surface Vessels: A World-Model-Centric Approach**. Raphael Schwinger, Nils Bischoff, Mats Kurz, Lukas Nolte, Tim Nolte, Bahne Thiel-Peters, Sven Tomforde 
+|12.35 - 12.55| **Perception Risk for Path Planning in Autonomous Rover Navigation**. Christian Medeiros Adriano, Mostafa Wael Aboalfotoh, Sona Ghahremani, Holger Giese
+|12.55 - 13.30| Closing
 
 <br/>
 
 ## Keynote
 
 
-**Towards an Autonomous Patient Recommendation System**
+**Sustainable Intelligence: Adaptive AI Systems for Environmental Efficiency in Autonomous and Distributed Computing**
 
-**Speaker**: [Shahram Rahimi](https://sites.google.com/view/shahramrahimi), University of Alabama
+**Speaker**: Prof. Monica Vitali (Politecnico di Milano, Italy)
 
-*Abstract.* This work advances the development of an autonomous patient recommendation system by leveraging knowledge graphs (KGs) to map and analyze patient journeys. We introduce the Patient Journey Ontology (PJO) to systematically represent diagnoses, treatments, and outcomes, enabling the construction of interoperable Patient Journey Knowledge Graphs (PJKGs). Using large language models, clinical dialogues are automatically transformed into structured PJKGs that capture the complete trajectory of patient care. To power recommendations, we propose the Dynamic Feature and Temporal Similarity (DFTS) framework, which integrates feature based and temporal similarity with dynamic weighting, designed to work effectively even with limited healthcare data. A case study in chronic disease management demonstrates the system’s ability to identify comparable patient journeys and generate personalized recommendations. This work establishes a foundation for autonomous, data-driven decision support that enhances patient-centered healthcare delivery.
+*Abstract.* 
+Artificial Intelligence is rapidly becoming the decision-making engine of autonomous and distributed systems, enabling increasingly capable applications while also raising important concerns about their environmental footprint. As AI models grow in complexity and scale, achieving sustainability requires moving beyond the optimization of individual algorithms toward a holistic view of AI systems, where computational resources are managed intelligently throughout the entire lifecycle. This keynote explores the vision of adaptive sustainable AI, where environmental impact is treated as a first-class design objective alongside performance, reliability, and quality of service. The central premise is that sustainability is not only a matter of developing more efficient models, but also of enabling AI systems to continuously decide what to compute, when to compute it, where to compute it, and at what level of fidelity according to application requirements and resource constraints. Through a set of research directions spanning different phases of the AI lifecycle, the talk highlights a common principle: environmental sustainability can be achieved by making AI systems adaptive in the way they acquire data, allocate computational resources, orchestrate distributed intelligence, and select inference strategies. This perspective opens new opportunities for designing autonomous systems that are not only intelligent in the services they provide, but also in the way they manage their own computational footprint, paving the way toward a new generation of environmentally aware AI.
+
 
 **About the speaker:**
+Monica Vitali is Associate Professor at the Department of Electronics, Information and Bioengineering (DEIB) of Politecnico di Milano (Italy), where she collaborates with the Research on Advanced Information Systems Engineering (RAISE) group. Her research interests include adaptive information systems, data management in heterogeneous infrastructures, energy- and carbon-aware information systems management, and green data-centric AI. Since 2025, she is the chair of the Green ICT working group of Informatics Europe.
 
-Dr. Shahram Rahimi is the Department Head of Computer Science at The University of Alabama and serves as Chief Advisor to the Alabama Cyber Institute. He previously held the position of Gloria & Douglas Marchant Endowed Chair Professor and Head of the Department of Computer Science and Engineering at Mississippi State University, and prior to that was Professor and Chair of the Department of Computer Science at Southern Illinois University. Dr. Rahimi has a distinguished background spanning both academia and industry, including roles with NASA and IBM. A recognized expert in artificial intelligence, he has published more than 350 peer-reviewed articles and holds multiple patents and pending patents. He has served as Editor-in-Chief for major AI journals and sits on the editorial boards of several others. Dr. Rahimi has contributed to numerous federal task forces, advising on predictive analytics for policy and defense. His hybrid game-theory system, *Foresight*, is widely used as a decision-support tool in foreign policy. He also led the development of *EmTime/Symphony*, an intelligent algorithm for ER staffing now deployed in more than 1,000 emergency departments nationwide, and recognized by *HealthTech* magazine in 2018 as one of the top 10 AI healthcare technologies. Over the past two decades, Dr. Rahimi has organized 15 international conferences on computational intelligence and multi-agent systems and has served as principal investigator on more than $25 million in federally and industry-funded research projects.

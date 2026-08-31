@@ -19,10 +19,6 @@ title = "Program Committee"
   title = "Gianluca Aguzzi"
 
 [[item]]
-  organization = "University of Amsterdam, The Netherlands"
-  title = "Shashikant Ilager" 
-
-[[item]]
   organization = "University of Milano-Bicocca, Italy"
   title = "Federica Filippini"
 
